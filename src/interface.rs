@@ -1,7 +1,6 @@
 use inquire::{InquireError, Select};
 
-pub trait MenuInteraction {
-    
+pub trait MenuInteraction {    
 }
 
 pub trait Menu {
